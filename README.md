@@ -16,3 +16,6 @@ What i'm currently learning:
 
 - JavaScript for frontend development
 - React for framework learning
+
+<h2>👾Hobbies</h2>
+Playing JRPGS, FPS, Visual Novel, and Story Rich Games. Reading Manga & Light Novel. Watching Anime & Series 👌
