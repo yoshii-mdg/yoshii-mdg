@@ -1,4 +1,4 @@
-<h1>Hey there, I'm De Guzman, Murphy B. Jr.</h1> 
+<h1>Hey there, I'm Murphy B. De Guzman Jr.</h1> 
 
 ### Frontend Developer | Hoping to learn more coding 
 
